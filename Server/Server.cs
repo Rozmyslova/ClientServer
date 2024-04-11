@@ -7,6 +7,7 @@ using System.Net.Sockets;
  
 class Server
 {
+    //Для нового дз
     public static string userName;
     public static byte[] userName_byte;
     public static string passWord;
